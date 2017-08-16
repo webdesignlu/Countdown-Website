@@ -9,7 +9,7 @@ General Usage
 - website is responsive
 
 --------------
-- This was my very first "website" its likely horribly written and wasn't tested on many browsers except on mobile.
+- This was my very first "website". It wasn't tested on many browsers, except on mobile.
 
 
 -------------
